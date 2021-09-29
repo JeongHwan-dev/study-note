@@ -1,6 +1,6 @@
-## HTML 표준 명세
+# HTML 표준 명세
 
-### 주요 HTML 콘텐츠 분류
+## 주요 HTML 콘텐츠 분류
 
 HTML5 이전에 'Block Container'라고 부르던 그런 대부분의 요소들은 주로 'Flow Content'라고 부르고 'Inline Container'라고 부르던 요소들은 'Phrasing Content'로 대부분 들어가게 되었습니다.
 
