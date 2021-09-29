@@ -99,4 +99,6 @@ HTML5 이전에 'Block Container'라고 부르던 그런 대부분의 요소들�
 
 > https://html.spec.whatwg.org/multipage/indices.html#element-content-categories
 
+> https://fastcampus.co.kr/dev_red_jcm
+
 > 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
