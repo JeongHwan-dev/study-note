@@ -44,17 +44,19 @@ console.log(student['2-Eng score']);
 
 **상수**는 대문자로 이름을 짓는 것을 선호합니다.
 
-**이름이 길게되면** 단어와 단어의 구분 방법을 둡니다. 대표적인 방법으로 `카멜 케이스(Camel case)`와 `스네이크 케이스(Snake case)`가 있습니다.  
-보통은 `카멜 케이스(Camel case)`를 더 많이 사용합니다.
+**이름이 길게되면** 단어와 단어의 구분 방법을 둡니다.  
+대표적인 방법으로 `카멜 케이스(Camel case)`와 `스네이크 케이스(Snake case)`가 있습니다.
 
-- 카멜 케이스(Camel case)
+> 보통은 `카멜 케이스(Camel case)`를 더 많이 사용합니다.
+
+- **카멜 케이스(Camel case)**
 
   ```javascript
   function setName(name) {}
   function getName() {}
   ```
 
-- 스네이크 케이스(Snake case)
+- **스네이크 케이스(Snake case)**
 
   ```javascript
   function set_name(name) {}
