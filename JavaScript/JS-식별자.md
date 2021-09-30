@@ -62,3 +62,13 @@ console.log(student['2-Eng score']);
   function set_name(name) {}
   function get_name() {}
   ```
+
+<br />
+
+### 참고 자료
+
+> https://developer.mozilla.org/ko/docs/Glossary/Identifier
+
+> https://fastcampus.co.kr/dev_academy_kmt1
+
+> 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
