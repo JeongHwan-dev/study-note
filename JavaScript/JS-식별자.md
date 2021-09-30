@@ -65,7 +65,7 @@ console.log(student['2-Eng score']);
 
 <br />
 
-### 참고 자료
+## 참고 자료
 
 > https://developer.mozilla.org/ko/docs/Glossary/Identifier
 
