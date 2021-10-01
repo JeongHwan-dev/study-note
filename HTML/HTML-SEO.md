@@ -26,7 +26,7 @@
 
 <br />
 
-## 페이지 타이틀
+## 페이지 타이틀 (Page Title)
 
 ### 페이지 타이틀 - Accessibility
 
