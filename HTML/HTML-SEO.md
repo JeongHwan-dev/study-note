@@ -6,6 +6,8 @@
 
 웹 페이지 검색엔진이 자료를 수집하고 순위를 매기는 방식에 맞게 웹 페이지를 구성해서 검색 결과의 상위에 나올 수 있게 합니다.
 
+<img src="../images/seo.jpg" alt="SEO" height="300px" />
+
 <br />
 
 ## SEO에 영향을 주는 요인들
@@ -76,11 +78,11 @@ Page title : Stie name
 
 <br />
 
-## Metadata
+## 메타데이터 (Metadata)
 
 ### 메타데이터는 무엇인가?
 
-**메타데이터(Metadata)**는 데이터(data)에 대한 데이터입니다. 즉 '어떤 목적을 가지고 만들어진 데이터'로 정의할 수 있다.
+**메타데이터(Metadata)** 는 데이터(data)에 대한 데이터입니다. 즉 '어떤 목적을 가지고 만들어진 데이터'로 정의할 수 있다.
 
 ```html
 <!-- lang 속성은 검색 엔진이 특정 언어의 웹 페이지를 검색할 때 도움을 주기도 하고 또는 화면 낭독기 사용자들이 이 웹 페이지를 읽을 때 어떤 음성 엔진을 선택해야 하는지 힌트를 주기도 합니다. 하지만 구글에서는 현재 lang 속성을 신뢰하지 않습니다.-->
@@ -119,7 +121,7 @@ Page title : Stie name
 <meta property="og:image" content="https://*.jpg" />
 ```
 
-<img src="../images/facebook-sharing-card.png" alt="페이스북 공유 카드" height="320px" />
+<img src="../images/facebook-sharing-card.png" alt="페이스북 공유 카드" height="400px" />
 
 [**🔗 페이스북 공유 카드 가이드 바로가기 Click !**](https://developers.facebook.com/docs/sharing/webmasters#markup) 👈
 
