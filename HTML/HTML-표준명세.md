@@ -8,7 +8,7 @@ HTML5 이전에 'Block Container'라고 부르던 그런 대부분의 요소들�
 
 > 'Inline Container' ➜ 'Phrasing Content'
 
-<img src="../images/element-content-categories.png" alt="주요 HTML 콘텐츠 분류" />
+<img src="../images/HTML/element-content-categories.png" alt="주요 HTML 콘텐츠 분류" />
 
 'Flow', 'Phrasing' 외에도 'Interactive', 'Embedded', 'Metadata', 'Heading', 'Sectioning' 과 같은 다양한 카테고리를 가지고 있습니다.
 

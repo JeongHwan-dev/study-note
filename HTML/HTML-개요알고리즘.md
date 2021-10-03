@@ -6,9 +6,9 @@
 
 ### Headings Map
 
-|                         헤딩이 잘 구성된 구조                         |                    헤딩이 잘 구성지 않은 구조                     |
-| :-------------------------------------------------------------------: | :---------------------------------------------------------------: |
-| <img src="../images/toss-headings-map.png" alt="Toss Headings Map" /> | <img src="../images/fs-headings-map.png" alt="FS Headings Map" /> |
+|                           헤딩이 잘 구성된 구조                            |                    헤딩이 잘 구성지 않은 구조                     |
+| :------------------------------------------------------------------------: | :---------------------------------------------------------------: |
+| <img src="../images/HTML/toss-headings-map.png" alt="Toss Headings Map" /> | <img src="../images/fs-headings-map.png" alt="FS Headings Map" /> |
 
 <br />
 

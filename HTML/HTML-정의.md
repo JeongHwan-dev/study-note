@@ -4,7 +4,7 @@
 
 **HTML(Hypertext Markup Language)** 은 웹을 이루는 가장 기초적인 구성요소로, 웹 콘테츠의 의미와 구조를 정의할 때 사용합니다.
 
-<img src="../images/html.png" alt="HTML" height="250px" />
+<img src="../images/HTML/html.png" alt="HTML" height="250px" />
 
 <br />
 
@@ -44,7 +44,7 @@ L - **Language(언어)** 이지만 프로로그래밍 언어가 아닙니다. HT
 
 4. **요소(Element)**: 요소는 여는 태그와 닫는 태그, 그리고 콘텐츠로 이루어집니다.
 
-<img src="../images/tag-attribute.png" alt="tag attribute" width="500px" />
+<img src="../images/HTML/tag-attribute.png" alt="tag attribute" width="500px" />
 
 \+ **속성(Attribute)**: 속성은 실제 콘텐츠로 표시되길 원하지 않는 추가적인 정보를 담고 있습니다.
 

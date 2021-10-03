@@ -6,7 +6,7 @@
 
 웹 페이지 검색엔진이 자료를 수집하고 순위를 매기는 방식에 맞게 웹 페이지를 구성해서 검색 결과의 상위에 나올 수 있게 합니다.
 
-<img src="../images/seo.jpg" alt="SEO" height="300px" />
+<img src="../images/HTML/seo.jpg" alt="SEO" height="300px" />
 
 <br />
 
@@ -46,9 +46,9 @@ Page title | Site name
 Page title : Stie name
 ```
 
-<img src="../images/page-title-google.png" alt="구글 페이지 타이틀" />
-<img src="../images/page-title-samsung.png" alt="삼성전자 페이지 타이틀" />
-<img src="../images/page-title-naver.png" alt="네이버 페이지 타이틀" />
+<img src="../images/HTML/page-title-google.png" alt="구글 페이지 타이틀" />
+<img src="../images/HTML/page-title-samsung.png" alt="삼성전자 페이지 타이틀" />
+<img src="../images/HTML/page-title-naver.png" alt="네이버 페이지 타이틀" />
 
 > 대시(`-`)를 사용하면 키워드 사이의 공간이 더 크기 때문에 가독성이 좋습니다.
 
@@ -121,7 +121,7 @@ Page title : Stie name
 <meta property="og:image" content="https://*.jpg" />
 ```
 
-<img src="../images/facebook-sharing-card.png" alt="페이스북 공유 카드" height="400px" />
+<img src="../images/HTML/facebook-sharing-card.png" alt="페이스북 공유 카드" height="400px" />
 
 [**🔗 페이스북 공유 카드 가이드 바로가기 Click !**](https://developers.facebook.com/docs/sharing/webmasters#markup) 👈
 
@@ -140,7 +140,7 @@ Page title : Stie name
 <meta name="twitter:image" content="https://*.jpg" />
 ```
 
-<img src="../images/twitter-sharing-card.png" alt="페이스북 공유 카드" height="320px" />
+<img src="../images/HTML/twitter-sharing-card.png" alt="페이스북 공유 카드" height="320px" />
 
 [**🔗 트위터 공유 카드 가이트 바로가기 Click !**](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup) 👈
 
@@ -166,7 +166,7 @@ Page title : Stie name
 
 > `<body>` 종료 직전에 넣는 것을 추천합니다.
 
-<img src="../images/metadata-naver.png" alt="네이버 연관 채널 등록" />
+<img src="../images/HTML/metadata-naver.png" alt="네이버 연관 채널 등록" />
 
 <br />
 
