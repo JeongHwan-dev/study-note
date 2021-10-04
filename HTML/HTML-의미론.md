@@ -32,6 +32,8 @@
 
   <img src="../images/HTML/header-tag.png" alt="header tag 예시" width="600px" />
 
+  > 반드시 필요한 요소는 아니지만 이런 의미일 때 div 요소 대신 사용하는 것을 권장합니다.
+
 <br />
 
 - `<footer>`
@@ -40,7 +42,7 @@
 
   <img src="../images/HTML/footer-tag.png" alt="footer tag 예시" width="600px" />
 
-> 반드시 필요한 요소는 아니지만 이런 의미일 때 div 요소 대신 사용하는 것을 권장합니다.
+  > 반드시 필요한 요소는 아니지만 이런 의미일 때 div 요소 대신 사용하는 것을 권장합니다.
 
 <br />
 
