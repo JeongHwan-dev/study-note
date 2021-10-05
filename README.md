@@ -2,7 +2,7 @@
   <br />
   <img src="./images/README/TIL.png" alt="Today I Learned" />
   <br />
-  <h1>Today I Learned</h1>
+  <hr />
   <br />
 </div>
 
