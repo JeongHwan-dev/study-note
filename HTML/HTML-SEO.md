@@ -1,4 +1,4 @@
-# SEO (Search Engine Optimization)
+# HTML과 SEO
 
 ## SEO는 무엇인가?
 
