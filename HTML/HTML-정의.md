@@ -34,7 +34,7 @@ L - **Language(언어)** 이지만 프로로그래밍 언어가 아닙니다. HT
 
 ## HTML 요소 분석
 
-<img src="../images/tag.png" alt="tag" width="500px" />
+<img src="../images/HTML/tag.png" alt="tag" width="500px" />
 
 1. **여는 태그(Opening tag)**: 요소의 이름으로 구성되고 요소가 시작되는 곳, 또는 효과를 시작하는 곳임을 나타냅니다.
 

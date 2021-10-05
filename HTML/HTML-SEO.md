@@ -108,7 +108,7 @@ Page title : Stie name
 
 - 구글에 실제 검색되는 화면
 
-  <img src="../images/metadata.png" />
+  <img src="../images/HTML/metadata.png" />
 
 <br />
 
