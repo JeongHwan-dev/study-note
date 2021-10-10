@@ -2,7 +2,7 @@
   <br />
   <img src="./images/README/TIL.png" alt="Today I Learned" />
   <br />
-  <hr />
+  <h1>학습 기록 노트 (Today I Learned, TIL)</h1>
   <br />
 </div>
 
