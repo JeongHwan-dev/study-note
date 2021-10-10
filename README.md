@@ -43,3 +43,5 @@
 ## JavaScript
 
 - [식별자](https://github.com/JeongHwan-dev/TIL/blob/master/JavaScript/JS-%EC%8B%9D%EB%B3%84%EC%9E%90.md)
+
+- [변수&상수](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/JavaScript/JS-%EB%B3%80%EC%88%98%26%EC%83%81%EC%88%98.md)
