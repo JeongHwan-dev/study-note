@@ -38,6 +38,8 @@
 
 - [값 정의 구문](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/CSS/CSS-%EA%B0%92%20%EC%A0%95%EC%9D%98%20%EA%B5%AC%EB%AC%B8.md)
 
+- [CSS 리셋](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/CSS/CSS-%EB%A6%AC%EC%85%8B.md)
+
 <br />
 
 ## JavaScript
