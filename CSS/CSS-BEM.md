@@ -2,11 +2,17 @@
 
 ## BEM 의미
 
-<img src="../images/CSS/bem.png" alt="BEM 의미" height="250px" />
+**BEM**은 Block, Element, Modifer로 구성된 클래스 이름을 짓는 **CSS 방법론**입니다.
+
+> BEM 방법론은 id에는 사용할 수 없고 오직 class명에만 활용할 수 있습니다.
+
+<img src="../images/CSS/bem.png" alt="BEM 의미" height="200px" />
 
 |              Block              |                Element                 |                      Modifer                      |
 | :-----------------------------: | :------------------------------------: | :-----------------------------------------------: |
 | 재사용 가능한 독립적인 **블록** | 블록을 구성하는 종속적인 하위 **요소** | 블록 또는 요소의 **변형**<br />(모양, 상태, 동작) |
+
+<img src="../images/CSS/bem-example.png" alt="BEM 의미" height="300px" />
 
 <br />
 
