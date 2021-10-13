@@ -2,7 +2,7 @@
 
 ## BEM 의미
 
-<img src="../images/CSS/bem.jpg" alt="BEM 의미" height="250px" />
+<img src="../images/CSS/bem.png" alt="BEM 의미" height="250px" />
 
 |              Block              |                Element                 |                      Modifer                      |
 | :-----------------------------: | :------------------------------------: | :-----------------------------------------------: |
