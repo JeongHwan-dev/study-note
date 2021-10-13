@@ -2,7 +2,7 @@
 
 ## BEM 의미
 
-<img src="../images/CSS/bem.jpg" alt="BEM 의미" />
+<img src="../images/CSS/bem.jpg" alt="BEM 의미" height="250px" />
 
 |              Block              |                Element                 |                      Modifer                      |
 | :-----------------------------: | :------------------------------------: | :-----------------------------------------------: |
@@ -46,6 +46,8 @@
   .button {...}
   ```
 
+<br />
+
 ## CSS 선택자 우선순위 규칙 (CSS selector specificiy)
 
 | id  | class, \[attr], :class | type, ::element |
@@ -73,7 +75,7 @@
 
 - 예시 A 사이트
 
-  <img src="../images/CSS/css-bad-stats.png" alt="나쁜 스타일시트 예시" height="500px" />
+  <img src="../images/CSS/css-bad-stats.png" alt="나쁜 스타일시트 예시" height="400px" />
 
 > **평균 선택자 점수**: 58점  
 > **최대 점수**: 410점
@@ -82,7 +84,7 @@
 
 - 예시 B 사이트
 
-  <img src="../images/CSS/css-good-stats.png" alt="좋은 스타일시트 예시" height="500px" />
+  <img src="../images/CSS/css-good-stats.png" alt="좋은 스타일시트 예시" height="400px" />
 
 > **평균 선택자 점수**: 14점  
 > **최대 점수**: 101점
@@ -104,7 +106,7 @@
 
 [**🔗 cssstats 바로가기 Click !**](https://cssstats.com/) 👈
 
-> 스타일시트에 대한 분석 및 시각화를 제공하는 사이트
+> 스타일시트에 대한 분석 및 시각화를 제공하는 웹 사이트
 
 > 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
 
@@ -131,6 +133,8 @@
 ```
 
 > 이 형식 이외에 다른 형식은 허용하지 않습니다.
+
+<br />
 
 ```HTML
 // 단순 블록
@@ -180,9 +184,9 @@
   .photo figcaption {...}   // 특이성 11
   ```
 
-> '선택자 특이성'이 높아지는 중첩 구조, 타입 선택자는 'BEM'에서 안티 패턴으로 간주합니다.
+  > '선택자 특이성'이 높아지는 중첩 구조, 타입 선택자는 'BEM'에서 안티 패턴으로 간주합니다.
 
-> 그러므로 타입 선택자는 가급적 피하는게 좋습니다.
+  > 그러므로 타입 선택자는 가급적 피하는게 좋습니다.
 
 <br />
 
@@ -194,7 +198,7 @@
   .photo__figcaption {...}  // 특이성 10
   ```
 
-> 제어하려는 모든 요소에 클래스 이름을 부여하여 특이성을 관리합니다.
+  > 제어하려는 모든 요소에 클래스 이름을 부여하여 특이성을 관리합니다.
 
 <br />
 
@@ -207,7 +211,7 @@
   .block--modi1--modi2 {...}
   ```
 
-> 블록/요소 이름 생략, 요소/변형 이름 중복을 금지합니다.
+  > 블록/요소 이름 생략, 요소/변형 이름 중복을 금지합니다.
 
 <br />
 
