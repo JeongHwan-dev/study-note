@@ -5,7 +5,7 @@
 ```CSS
 #CSS-property-order {
 
-  // 1. 레이아웃
+  /* 1. 레이아웃 */
   display: ;
   visibility: ;
   opacity: ;
@@ -20,7 +20,7 @@
   left: ;
   z-index: ;
 
-  // 2. BOX
+  /* 2. BOX */
   width: ;
   min-width: ;
   max-width: ;
@@ -67,7 +67,7 @@
   border-bottom-color: ;
   border-left-color: ;
 
-  // 3. 배경
+  /* 3. 배경 */
   background: ;
   background-color: ;
   background-image: ;
@@ -78,7 +78,7 @@
   list-style: ;
   caption-side: ;
 
-  // 4. 폰트
+  /* 4. 폰트 */
   font: ;
   font-family: ;
   font-size: ;
@@ -95,7 +95,7 @@
   text-transform: ;
   text-decoration: ;
 
-  // 5. 기타
+  /* 5. 기타 */
   ...
 
 }
