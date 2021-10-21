@@ -8,9 +8,14 @@
 
 ## 목차
 
+1. [**Web**](#Web)
 1. [**HTML**](#html)
-2. [**CSS**](#css)
-3. [**JavaScript**](#javascript)
+1. [**CSS**](#css)
+1. [**JavaScript**](#javascript)
+
+## Web
+
+- [HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/web/WEB-HTTP%26HTTPS.md)
 
 <br />
 
