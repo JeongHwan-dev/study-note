@@ -26,7 +26,7 @@
 
    > `--`, `__` 형식 이외에 다른 형식의 기호 사용 제한
 
-3. 전역에서 **유일한 **이름 권장
+3. 전역에서 **유일한** 이름 권장
 4. 낮은 선택자 **특이성** 유지
 5. HTML/CSS 연결이 느슨, **병렬 개발** 가능
 
@@ -167,14 +167,14 @@
 ```HTML
 <div class=“card”>
   <img class=“card__image”>
-    <h2 class=“card__title”>I am a card</h2>
-    <p class=“card__description”>I am the card paragraph</p>
-    <!-- The button is an element inside the block -->
-    <a class=“card__button”>Learn more</a>
+  <h2 class=“card__title”>I am a card</h2>
+  <p class=“card__description”>I am the card paragraph</p>
+  <!-- The button is an element inside the block -->
+  <a class=“card__button”>Learn more</a>
 </div>
 ```
 
-<img src="../images/CSS/bem-card1.png" alt="BEM Card1" />
+<img src="../images/CSS/bem-card.png" alt="BEM Card" />
 
 <br />
 
