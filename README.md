@@ -69,3 +69,4 @@
 ## CS
 
 - [모듈(Module)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/module.md)
+- [동기&비동기](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/synchronous&asynchronous.md)
