@@ -73,3 +73,4 @@
 - [모듈(Module)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/module.md)
 - [동기&비동기](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/synchronous&asynchronous.md)
 - [미들웨어](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4.md)
+- [연결 리스트(Linked List)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
