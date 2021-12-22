@@ -9,7 +9,7 @@
 
 ### 선형 큐(Linear Queue)
 
-<img src="../images/CS/linear-queue.png" alt="선형 큐(Linear Queue)" width="300px" />
+<img src="../images/CS/linear-queue.png" alt="선형 큐(Linear Queue)" width="500px" />
 
 - 선형 큐(Linear Queue) 배열(Array)로 구현
 
@@ -101,7 +101,7 @@ const queue = new Queue();
 
 > 원형 큐(Circular Queue)는 연결 리스트(Linked List)로 구현했을 때에는 이점이 없습니다.
 
-<img src="../images/CS/circular-queue.gif" alt="원형 큐(Circular Queue)" width="500px" />
+<img src="../images/CS/circular-queue.gif" alt="원형 큐(Circular Queue)" width="300px" />
 
 - 원형 큐(Circular Queue) 배열(Array)로 구현
 
