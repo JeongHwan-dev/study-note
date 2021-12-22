@@ -2,8 +2,7 @@
 
 ## 큐란?
 
-**큐(Queue)** 는 FIFO(First In First Out)이라는 개념을 가진 선형 자료구조입니다.
-
+**큐(Queue)** 는 FIFO(First In First Out)이라는 개념을 가진 선형 자료구조입니다.  
 선형 큐(Linear Queue)와 원형 큐(Circular Queue)가 존재합니다.
 
 <br />
@@ -98,7 +97,9 @@ const queue = new Queue();
 
 ### 원형 큐(Circular Queue)
 
-원형 큐(Circular Queue)는 Front와 Rear가 이어져있는 Queue입니다. 원형 큐(Circular Queue)는 연결 리스트(Linked List)로 구현했을 때에는 이점이 없습니다.
+원형 큐(Circular Queue)는 Front와 Rear가 이어져있는 Queue입니다.
+
+> 원형 큐(Circular Queue)는 연결 리스트(Linked List)로 구현했을 때에는 이점이 없습니다.
 
 <img src="../images/CS/circular-queue.gif" alt="원형 큐(Circular Queue)" />
 
