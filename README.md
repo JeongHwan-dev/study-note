@@ -76,3 +76,4 @@
 - [연결 리스트(Linked List)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 - [스택(Stack)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EC%8A%A4%ED%83%9D.md)
 - [큐(Queue)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%ED%81%90.md)
+- [해시 테이블(Hash Table)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94.md)
