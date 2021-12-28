@@ -41,7 +41,7 @@
 
 <br />
 
-## Javascript에서 사용하기
+## JavaScript에서 사용하기
 
 ### 배열(Array)로 구현
 
