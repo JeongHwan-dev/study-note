@@ -15,6 +15,7 @@
 1. [**React**](#react)
 1. [**Bundler**](#bundler)
 1. [**CS**](#cs)
+1. [**Algorithm**](#algorithm)
 
 <br />
 
@@ -82,3 +83,9 @@
 - [정렬(Sort)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EC%A0%95%EB%A0%AC.md)
 - [BFS & DFS](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-BFS%20%26%20DFS.md)
 - [그리디(Greedy)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EA%B7%B8%EB%A6%AC%EB%94%94.md)
+
+<br />
+
+## Algorithm
+
+- [소수 구하기](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
