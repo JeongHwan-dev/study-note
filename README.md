@@ -91,3 +91,4 @@
 - [소수 구하기](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 - [트라이(Trie)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%ED%8A%B8%EB%9D%BC%EC%9D%B4.md)
 - [투 포인터(Two Pointers)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
+- [백트래킹(Backtracking)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9.md)
