@@ -1,4 +1,4 @@
-# 스코프(Scope)
+# 스코프(Scope) & 호이스팅(Hoisting)
 
 ## 스코프란?
 
