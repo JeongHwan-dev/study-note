@@ -75,20 +75,20 @@
 - [모듈(Module)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/module.md)
 - [동기&비동기](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/synchronous&asynchronous.md)
 - [미들웨어](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4.md)
-- [연결 리스트(Linked List)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
-- [스택(Stack)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EC%8A%A4%ED%83%9D.md)
-- [큐(Queue)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%ED%81%90.md)
-- [해시 테이블(Hash Table)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94.md)
-- [그래프(Graph)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EA%B7%B8%EB%9E%98%ED%94%84.md)
-- [이진 탐색(Binary Search)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
-- [정렬(Sort)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EC%A0%95%EB%A0%AC.md)
-- [BFS & DFS](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-BFS%20%26%20DFS.md)
-- [그리디(Greedy)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/cs/CS-%EA%B7%B8%EB%A6%AC%EB%94%94.md)
 
 <br />
 
 ## Algorithm
 
+- [연결 리스트(Linked List)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+- [스택(Stack)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%EC%8A%A4%ED%83%9D.md)
+- [큐(Queue)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%ED%81%90.md)
+- [해시 테이블(Hash Table)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94.md)
+- [그래프(Graph)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%EA%B7%B8%EB%9E%98%ED%94%84.md)
+- [이진 탐색(Binary Search)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
+- [정렬(Sort)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%EC%A0%95%EB%A0%AC.md)
+- [BFS & DFS](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-BFS%20%26%20DFS.md)
+- [그리디(Greedy)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%EA%B7%B8%EB%A6%AC%EB%94%94.md)
 - [소수 구하기](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 - [트라이(Trie)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%ED%8A%B8%EB%9D%BC%EC%9D%B4.md)
 - [투 포인터(Two Pointers)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/Algorithm/Algo-%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
