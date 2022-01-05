@@ -53,6 +53,7 @@
 - [식별자](https://github.com/JeongHwan-dev/TIL/blob/master/JavaScript/JS-%EC%8B%9D%EB%B3%84%EC%9E%90.md)
 - [변수 & 상수](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/JavaScript/JS-%EB%B3%80%EC%88%98%26%EC%83%81%EC%88%98.md)
 - [스코프 & 호이스팅](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/JavaScript/JS-%EC%8A%A4%EC%BD%94%ED%94%84%26%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
+- [클로저(Closure)](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/JavaScript/JS-%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 
 <br />
 
